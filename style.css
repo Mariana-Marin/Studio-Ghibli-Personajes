@@ -31,7 +31,7 @@ body {
     position: fixed;
     width: 100%;
     height: 100%;
-    background-image: url('/paisaje.webp');
+    background-image: url('./assets/paisaje.webp');
     background-size: cover; 
     background-position: center;
     background-repeat: no-repeat; 
